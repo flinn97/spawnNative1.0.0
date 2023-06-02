@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477573251377",
+    "project_id": "spawn-810bf",
+    "storage_bucket": "spawn-810bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477573251377:android:08ebd7763f4fa84acaf010",
+        "android_client_info": {
+          "package_name": "com.ava.spawnrpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477573251377-smncsv8v23o8v807eo78b9ksims2rprs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-KzWS6l1cqPDEzIUnFLx2cztjFxSeUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477573251377-smncsv8v23o8v807eo78b9ksims2rprs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

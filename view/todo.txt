@@ -1,0 +1,3 @@
+updated keep to have the changes. copy keep and put it into myspawns
+created a touchable around a nav property so that it would change my switch.
+inside dispatch we created a switch for keep.
